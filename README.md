@@ -2,7 +2,7 @@
 
 A reusable AI skill for developing original concepts for photoshoots, fashion and art photography, product videos, reels, and brand campaigns.
 
-It takes a brief and optional visual references, then proposes 3–5 concepts with practical direction for lighting, location, styling, movement, framing, and production needs.
+It takes a brief and optional visual references, then proposes 3–5 concepts with practical direction for lighting, location, styling, movement, framing, and production needs. Character and world-building guide concept development, campaign structure, and image critique.
 
 ## Use the skill
 
@@ -28,6 +28,6 @@ Include the product or project, audience, goal, format, and any references you h
 - [references/techniques.md](references/techniques.md): supporting creative reference material.
 - [references/creative_methodology.md](references/creative_methodology.md): supporting methodology.
 - [references/shot_types.md](references/shot_types.md): framing and shot terminology.
-- [creative-concept-generator.skill](creative-concept-generator.skill): the original supplied package, with a simplified download name.
+- [creative-concept-generator.skill](creative-concept-generator.skill): the current skill and supporting references, packaged for import.
 
-The skill and its supporting files are preserved from the supplied package. The original instructions are in Russian; the skill asks for responses in the user's language.
+The original instructions are in Russian, with added character and world-building guidance in English. The skill asks for responses in the user's language.

@@ -1,6 +1,6 @@
 ---
 name: creative-concept-generator
-description: Generate unconventional, non-mainstream creative concepts for photoshoots, fashion/art photography, video, and brand content campaigns. Use this skill whenever the user wants to brainstorm ideas for a shoot, campaign, editorial, or creative video project — including requests like "I need ideas for a brand photoshoot", "help me brainstorm a concept", "у меня нет идей для съемки", "придумай концепцию для бренда", or any request for fresh/original/non-generic creative direction, even if the user doesn't use the word "brainstorm" explicitly. Also use this skill if the user shares reference photos/shoots and asks for something similar-but-different, or asks to analyze references for inspiration before shooting.
+description: Develop unconventional creative concepts through character and world-building for photoshoots, fashion/art photography, video, and brand campaigns. Use when brainstorming a shoot, campaign, editorial, or creative video; developing ideas from visual references; or critiquing campaign images for conceptual strength. Includes requests like "I need ideas for a brand photoshoot", "help me brainstorm a concept", "у меня нет идей для съемки", and "придумай концепцию для бренда". Translate references into original directions and practical image or video briefs.
 ---
 
 # Creative Concept Generator
@@ -12,6 +12,53 @@ description: Generate unconventional, non-mainstream creative concepts for photo
 **никогда не раскрываются пользователю** (см. правило конфиденциальности
 ниже). Отдельно используется библиотека планов кадра (shot types) — её,
 в отличие от остального, можно и нужно называть пользователю прямо в идее.
+
+## Character and world-building: this user's creative direction
+
+For this user's creative campaigns, including Find My Smell, fragrance visuals,
+and photography/AI coaching examples, prioritize product character and
+world-building. Apply this preference when developing concepts, writing image
+prompts, selecting campaign assets, and critiquing results. An explicit brief
+for a conventional commercial image can override this default.
+
+### Develop the idea
+
+- Start with the product's specific character: its desires, attitude, tensions,
+  and the kind of person or behavior it invites. Use the supplied brand story
+  as material for visible choices, rather than repeating its adjectives.
+- Define a world with a recognizable logic: who inhabits it, what is possible
+  there, and how the product relates to people, places, rituals, or power.
+  A palette, period costume, Gothic arch, or unusual prop alone is a mood,
+  not a complete concept.
+- Make character perceptible through behavior, relationships, atmosphere,
+  material, scale, and composition. Beautiful skin, attractive casting,
+  dramatic light, and a bottle against a neck do not by themselves reveal
+  a product's identity. Novelty or surreal effects alone are also insufficient.
+- For a campaign, give each asset a clear contribution: introduce the world,
+  establish the product's role, reveal a wearer, interpret a scent note, or
+  express a campaign statement. Develop distinct campaign images rather than
+  automatically turning the series into consecutive frames of one scene.
+- Preserve product identity. Keep imaginative transformations symbolic;
+  do not present them as factual product benefits. Use references for visual
+  qualities while inventing the setting, relationships, poses, and arrangement.
+
+### Select and critique images
+
+Judge conceptual contribution before conventional desirability or visual polish.
+Ask:
+
+1. What does this image reveal about this product's character or world?
+2. What specific feeling, tension, or relationship can the viewer perceive?
+3. Could another product replace this one without changing the image's meaning?
+4. What does this asset add to the campaign that the other assets do not?
+
+Treat these as judgment criteria, not a rigid scoring formula. A quiet image can
+be strong through a precise, meaningful detail; every frame need not be strange
+or carry a full narrative. If an image contributes only tactile appeal or visual
+beauty, identify it as a supporting asset rather than calling it the strongest
+by default. Explain strengths and weaknesses through visible evidence and the
+user's brief. Do not substitute familiar advertising conventions, internet
+popularity, or unsupported assumptions about what sells for that assessment.
 
 ## Рабочий процесс
 
